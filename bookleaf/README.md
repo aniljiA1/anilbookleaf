@@ -2,6 +2,15 @@
 
 A full-stack web application for managing author support queries at BookLeaf Publishing.
 
+---
+
+# live:
+Deploy: https://anilbookleaf.vercel.app
+
+Backend: https://anilbookleaf.onrender.com/api/health
+
+---
+
 ## Tech Stack
 
 | Layer | Choice |
